@@ -40,12 +40,14 @@ python generate_image.py
 ```
 -> Polling: The script polls the API every 0.5 seconds until the image generation result is ready. That's it the script  also checks for a successful response after submitting the request.
 
-For more visit: 
+For more visit:
+
 🔺for script: https://github.com/PRITHIVSAKTHIUR/Flux-API/tree/main
 
 🔺bfl doc: https://docs.bfl.ml/quick_start/gen_image/#__tabbed_1_2
 
 Endpoints for image generation: 🧵
+
 ->  /flux-pro-1.1-ultra
 ->  /flux-pro-1.1
 ->  /flux-pro
