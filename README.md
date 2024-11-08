@@ -1,11 +1,15 @@
 FLUX 1.1 [pro] Ultra : API - { 4x Higher Image Resolutions } 
+
 Upto - 4 Megapixels, 10sec per image sampling { Hi - Res } 
 
 Post 🤗: https://huggingface.co/posts/prithivMLmods/508581844814759
 
 Endpoint Creation Step by Step: 🧵
+
 -> Sign up to { api.bfl.ml } & get your api's: https://api.bfl.ml/auth/profile
+
 -> File Structure:
+
 flux_image_generation/
 
 ├── .env                
@@ -24,6 +28,7 @@ requests
 python-dotenv
 ```
 -> Step 2: Setup the Python Script 
+
 { generate_image.py} - https://github.com/PRITHIVSAKTHIUR/Flux-API/blob/main/generate_image.py 
 
 -> Step3: Install the requirements & Run the Script
