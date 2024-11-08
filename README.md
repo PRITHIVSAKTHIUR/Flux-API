@@ -5,6 +5,7 @@ Endpoint Creation Step by Step: 🧵
 -> Sign up to { api.bfl.ml } & get your api's: https://api.bfl.ml/auth/profile
 -> File Structure:
 flux_image_generation/
+
 ├── .env                
 ├── generate_image.py      
 └── requirements.txt     
