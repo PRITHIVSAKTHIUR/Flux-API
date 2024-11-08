@@ -1,6 +1,8 @@
 FLUX 1.1 [pro] Ultra : API - { 4x Higher Image Resolutions } 
 Upto - 4 Megapixels, 10sec per image sampling { Hi - Res } 
 
+Post 🤗: https://huggingface.co/posts/prithivMLmods/508581844814759
+
 Endpoint Creation Step by Step: 🧵
 -> Sign up to { api.bfl.ml } & get your api's: https://api.bfl.ml/auth/profile
 -> File Structure:
@@ -35,6 +37,7 @@ python generate_image.py
 
 For more visit: 
 🔺for script: https://github.com/PRITHIVSAKTHIUR/Flux-API/tree/main
+
 🔺bfl doc: https://docs.bfl.ml/quick_start/gen_image/#__tabbed_1_2
 
 Endpoints for image generation: 🧵
@@ -49,3 +52,5 @@ Each ID has 50 free credits available for use, based on the cost per image sampl
 .
 .
 @prithivMLmods  🤗
+
+HF : https://huggingface.co/prithivMLmods
