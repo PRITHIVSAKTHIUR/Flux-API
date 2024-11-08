@@ -1,4 +1,4 @@
-FLUX 1.1 [pro] Ultra : API - { 4x Higher Image Resolutions } 
+## FLUX 1.1 [pro] Ultra : API - { 4x Higher Image Resolutions } 
 
 Upto - 4 Megapixels, 10sec per image sampling { Hi - Res } 
 
